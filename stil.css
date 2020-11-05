@@ -1,0 +1,32 @@
+  p {
+    font-family: Verdana;
+  }
+
+  h1, h2 {
+    font-family: Times new Roman;
+  }
+
+  body {
+    background-color: #cac800;
+  }
+
+  a {
+    color: #cac800;
+  }
+
+  article {
+    float: left;
+    width: 50%;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  a:link {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
